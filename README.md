@@ -29,7 +29,7 @@ ssh etudiant@192.168.170.156
 ```
 mdp yurtseven
 
-deux terminaux.
+Dans deux terminaux.
 
 ```bash
 python3 serveur.py
