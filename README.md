@@ -9,11 +9,16 @@
 - serveur_http.pem
 - root_ca.cert.pem
 
-⛔️ Voici les coordonnées du serveur : 
+⛔️ Voici les coordonnées du serveur de nous deux : 
 ```bash
 ssh etudiant@192.168.170.156 
 ```
 mdp yurtseven
+
+```bash
+ssh etudiant@192.168.170.112
+```
+mdp fernandez
 
 ## Authors
  - [@Yuss9](https://github.com/Yuss9) Huseyin YURTSEVEN
@@ -27,6 +32,11 @@ Dans la VM :
 ssh etudiant@192.168.170.156 
 ```
 mdp yurtseven
+
+```bash
+ssh etudiant@192.168.170.112
+```
+mdp fernandez
 
 Dans deux terminaux.
 
