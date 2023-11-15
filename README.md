@@ -16,9 +16,10 @@ ssh etudiant@192.168.170.156
 mdp yurtseven
 
 ## Authors
-
-- [@Yuss9](https://github.com/Yuss9) Huseyin YURTSEVEN
-- [@Ygdrazil](https://github.com/Ygdrazil) Volodia Fernandez
+-  Huseyin YURTSEVEN
+ - [@Yuss9](https://github.com/Yuss9) 
+- Volodia Fernandez 
+ - [@Ygdrazil](https://github.com/Ygdrazil) 
 
 ## LANCEMENT
 
