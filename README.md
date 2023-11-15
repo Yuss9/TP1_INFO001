@@ -43,4 +43,4 @@ python3 client.py
 **Server:** Python
 
 
-![Logo](https://fs.buttercms.com/resize=width:940/Kgd357RQfGpJ1sfhLclA)
+![Logo](https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png)
