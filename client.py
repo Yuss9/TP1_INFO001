@@ -26,8 +26,6 @@ server_cert = x509.load_pem_x509_certificate(
     server_cert_bytes, default_backend())
 
 # Vérification du certificat
-
-# Ajoutez ici votre logique de vérification du certificat (nom de domaine, date, CA, etc.)
 print(f"Certificat du serveur décodé:\n{server_cert}")
 
 # Extraction du Common Name (CN) du certificat
