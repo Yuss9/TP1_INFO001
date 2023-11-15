@@ -1,5 +1,5 @@
 # TP1_INFO001
- TP1 sécurité des appliactions
+ TP1 sécurité des applications.
 
 ## IMPORTANT
 ⛔️ Tous fonctionne.
