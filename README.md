@@ -2,14 +2,14 @@
  TP1 sécurité des applications.
 
 ## IMPORTANT
-⛔️ Tous fonctionne.
+Tous fonctionne.
 
-⛔️ Pour faire fonctionner le projet il faut avoir trois fichiers dans le projet au même endroit que le serveur.py et client.py : voici les noms des trois fichiers : 
+Pour faire fonctionner le projet il faut avoir trois fichiers dans le projet au même endroit que le serveur.py et client.py : voici les noms des trois fichiers : 
 - serveur_http.cert.pem
 - serveur_http.pem
 - root_ca.cert.pem
 
-⛔️ Voici les coordonnées du serveur de nous deux : 
+Voici les coordonnées du serveur de nous deux : 
 ```bash
 ssh etudiant@192.168.170.156 
 ```
