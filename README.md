@@ -3,6 +3,7 @@
 
 ## IMPORTANT
 ⛔️ Tous fonctionne.
+
 ⛔️ Pour faire fonctionner le projet il faut avoir trois fichiers dans le projet au même endroit que le serveur.py et client.py : voici les noms des trois fichiers : 
 - serveur_http.cert.pem
 - serveur_http.pem
