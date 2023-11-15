@@ -26,6 +26,17 @@ mdp fernandez
 
 ## LANCEMENT
 
+
+
+```bash
+sudo dnf install python3-pip
+```
+
+
+```bash
+pip install cryptography
+```
+
 Dans la VM :
 
 ```bash
