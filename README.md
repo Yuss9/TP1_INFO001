@@ -20,7 +20,7 @@ mdp yurtseven
 - [@Yuss9](https://github.com/Yuss9) 
 - [@Ygdrazil](https://github.com/Ygdrazil) 
 
-## INSTALLATION
+## LANCEMENT
 
 Dans la VM :
 
