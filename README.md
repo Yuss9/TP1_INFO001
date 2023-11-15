@@ -17,8 +17,8 @@ mdp yurtseven
 
 ## Authors
 
-- [@Yuss9](https://github.com/Yuss9) 
-- [@Ygdrazil](https://github.com/Ygdrazil) 
+- [@Yuss9](https://github.com/Yuss9) Huseyin YURTSEVEN
+- [@Ygdrazil](https://github.com/Ygdrazil) Volodia Fernandez
 
 ## LANCEMENT
 
